@@ -1,0 +1,117 @@
+[20/Feb/2020:09:06:49] (ℹ️): WordPress Instance Info:
+[20/Feb/2020:09:06:49] (ℹ️): Home URL : https://bybickley.dk
+[20/Feb/2020:09:06:49] (ℹ️): Site URL : https://bybickley.dk
+[20/Feb/2020:09:06:49] (ℹ️): WordPress Version : 5.3.2
+[20/Feb/2020:09:06:49] (ℹ️): Onboarding Version : 1.8.2
+[20/Feb/2020:09:06:49] (ℹ️): Multisite : No
+[20/Feb/2020:09:06:49] (ℹ️): Server Info : Apache
+[20/Feb/2020:09:06:49] (ℹ️): PHP Version : 7.3.15
+[20/Feb/2020:09:06:49] (ℹ️): HTTPS : Yes
+[20/Feb/2020:09:06:49] (ℹ️): PHP Max Execution Time : 50
+[20/Feb/2020:09:06:49] (ℹ️): PHP Max Input Vars : 5000
+[20/Feb/2020:09:06:49] (ℹ️): Max Upload Size : 100663296
+[20/Feb/2020:09:06:49] (ℹ️): Plugins:
+[20/Feb/2020:09:06:49] (ℹ️): [PLUGIN] Elementor : v2.9.2 (Elementor.com)
+[20/Feb/2020:09:06:49] (ℹ️): [PLUGIN] Image optimization service by Optimole : v2.2.8 (Optimole)
+[20/Feb/2020:09:06:49] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.3.3 (ThemeIsle)
+[20/Feb/2020:09:06:49] (ℹ️): [PLUGIN] Really Simple SSL : v3.2.9 (Rogier Lankhorst, Mark Wolters)
+[20/Feb/2020:09:06:49] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.2 (Themeisle)
+[20/Feb/2020:09:06:49] (ℹ️): [PLUGIN] Yoast SEO : v13.1 (Team Yoast)
+[20/Feb/2020:09:06:49] (🔵): Saving remote XML
+[20/Feb/2020:09:06:49] (✅): Saved remote XML at path /customers/9/5/6/bybickley.dk/httpd.www/wp-content/uploads/themeisle-demo-import.xml.
+[20/Feb/2020:09:06:49] (🔵): Starting content import...
+[20/Feb/2020:09:06:49] (✅): Import started.
+[20/Feb/2020:09:06:49] (✅): Parsing XML file.
+[20/Feb/2020:09:06:49] (🔵): Starting parsing file:/customers/9/5/6/bybickley.dk/httpd.www/wp-content/uploads/themeisle-demo-import.xml
+[20/Feb/2020:09:06:49] (🔵): Using Themeisle_OB_WXR_Parser_SimpleXML...
+[20/Feb/2020:09:06:49] (✅): Parsed XML
+[20/Feb/2020:09:06:49] (🔵): Processing categories...
+[20/Feb/2020:09:06:49] (✅): Processed categories.
+[20/Feb/2020:09:06:49] (🔵): Processing tags...
+[20/Feb/2020:09:06:49] (✅): No tags to process.
+[20/Feb/2020:09:06:49] (🔵): Processing terms...
+[20/Feb/2020:09:06:49] (✅): Processed terms.
+[20/Feb/2020:09:06:49] (🔵): Processing posts...
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-01 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-06 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-08 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-09 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-10 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-11 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-14 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-01 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-02 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-03 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-04 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-05 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-07 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-08 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-09 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-10 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-11 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-12 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-13 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-14 already exists.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-15 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-16 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-17 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-19 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-21 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-22 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-24 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-25 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-26 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-27 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-28 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-29 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-30 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-31 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-32 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-33 already exists.
+[20/Feb/2020:09:06:49] (✅): Media neve-creative-portfolio-logo-2 already exists.
+[20/Feb/2020:09:06:49] (🔵): Inserting post: Working as a freelancer for one year .
+[20/Feb/2020:09:06:49] (✅): Done inserting post: Working as a freelancer for one year .
+[20/Feb/2020:09:06:49] (✅): Page Home already exists.
+[20/Feb/2020:09:06:49] (🔵): Filtering elementor meta...
+[20/Feb/2020:09:06:49] (✅): Filtered elementor meta.
+[20/Feb/2020:09:06:49] (✅): Page About already exists.
+[20/Feb/2020:09:06:49] (🔵): Filtering elementor meta...
+[20/Feb/2020:09:06:49] (✅): Filtered elementor meta.
+[20/Feb/2020:09:06:49] (✅): Page Portfolio already exists.
+[20/Feb/2020:09:06:49] (🔵): Filtering elementor meta...
+[20/Feb/2020:09:06:49] (✅): Filtered elementor meta.
+[20/Feb/2020:09:06:49] (✅): Page Portfolio Single already exists.
+[20/Feb/2020:09:06:49] (🔵): Filtering elementor meta...
+[20/Feb/2020:09:06:49] (✅): Filtered elementor meta.
+[20/Feb/2020:09:06:49] (✅): Page Contact already exists.
+[20/Feb/2020:09:06:49] (🔵): Filtering elementor meta...
+[20/Feb/2020:09:06:49] (✅): Filtered elementor meta.
+[20/Feb/2020:09:06:49] (✅): Page Blog already exists.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Processed single menu item.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Processed single menu item.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Processed single menu item.
+[20/Feb/2020:09:06:49] (🔵): Inserting post: My creative CV .
+[20/Feb/2020:09:06:49] (✅): Done inserting post: My creative CV .
+[20/Feb/2020:09:06:49] (🔵): Inserting post: New logo concept .
+[20/Feb/2020:09:06:49] (✅): Done inserting post: New logo concept .
+[20/Feb/2020:09:06:49] (✅): Processed posts.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Processed single menu item.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Processed single menu item.
+[20/Feb/2020:09:06:49] (🔵): Processing single menu item ' '...
+[20/Feb/2020:09:06:49] (✅): Processed single menu item.
+[20/Feb/2020:09:06:49] (🔵): Cleaning up import with id ...
+[20/Feb/2020:09:06:49] (🔵): Done cleanup. Flushing cache...
+[20/Feb/2020:09:06:49] (🔵): Flushed cache. Removing temporary data..
+[20/Feb/2020:09:06:49] (✅): Done importing
+[20/Feb/2020:09:06:49] (🔵): Busting elementor cache
+[20/Feb/2020:09:06:49] (🔵): Setting up shop page.
+[20/Feb/2020:09:06:49] (✅): No WooCommerce.
+[20/Feb/2020:09:06:49] (🔴️): No front page ID.

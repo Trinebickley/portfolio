@@ -1,0 +1,52 @@
+/*
+ Theme Name:   neve-child-theme 
+ Theme URI:    https://bybickley.dk
+ Description:  neve child theme
+ Author:       Trine Bickley
+ Author URI:   https://bybickley.dk
+ Template:     neve
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  neve-child-theme
+*/
+
+p {
+font-family: 'Maven Pro', sans-serif;
+font-weight: 400;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: arimo;
+    font-weight: 100;
+}
+
+.neve-main {
+    flex: 1 auto;
+    min-height: 1px;
+    background-color: #f1efeb;
+}
+.header--row .header--row-inner, .header--row .header--row-inner .container .row {
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-color: #f1efeb;
+}
+.nv-page-title-wrap.nv-big-title .nv-page-title h1 {
+    font-family: arimo;
+    font-weight: 800;
+    letter-spacing: 7px;
+}
+
+.site-logo p {
+    font-family: Arimo;
+
+    font-weight: 500;
+}
+
+
+
+.elementor-button {
+    width: 15rem
+}
