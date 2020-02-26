@@ -5,16 +5,70 @@
  Author:       Trine Bickley
  Author URI:   https://bybickley.dk
  Template:     neve
- Version:      1.0.1
+ Version:      1.0.3
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  neve-child-theme
 */
 
+/*Menuen bliver i toppen*/
+.hfg-is-group.hfg-item-right {
+    justify-content: flex-end;
+    height: 60px;
+    z-index: 170;
+    margin: 0 auto;
+    width: 100%;
+    position: fixed;
+    right: 8%;
+    top: 8%;
+    text-align: center;
+}
+
+.site-logo .title-with-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 60px;
+    z-index: 170;
+    margin: 0 auto;
+    width: 100%;
+    position: fixed;
+    top: 8%;
+}
+/* knapperne på sitet */
+.elementor-button {
+    width: 11rem;
+}
+/* knapperne på sitet - tildeler alle den samme farve */
+#blue-button {
+    background-color: #bacbd9;
+    color: white;
+}
+/* h2 style tildel alle*/
+.elementor-widget-heading .elementor-heading-title {
+    font-family: 'Maven pro';
+    font-weight: 100;
+    color: #c6b6a5;
+}
+
+.nv-page-title-wrap.nv-big-title .nv-page-title {
+    line-height: 1.3em;
+    margin-bottom: 0;
+    margin-top: 8%;
+    color: #c6b6a5;
+    font-family: 'arimo', sans-serif;
+    font-weight: 600;
+    letter-spacing: 7px;
+}
+
+
+
+/*styling af fonten*/
 p {
 font-family: 'Maven Pro', sans-serif;
 font-weight: 400;
+
 }
 
 .elementor-widget-heading .elementor-heading-title {
@@ -33,20 +87,11 @@ font-weight: 400;
     position: relative;
     background-color: #f1efeb;
 }
-.nv-page-title-wrap.nv-big-title .nv-page-title h1 {
-    font-family: arimo;
-    font-weight: 800;
-    letter-spacing: 7px;
-}
 
+/*Styling af teksten til logoet */
 .site-logo p {
-    font-family: Arimo;
-
+    font-family: 'Arimo';
     font-weight: 500;
 }
 
 
-
-.elementor-button {
-    width: 15rem
-}
